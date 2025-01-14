@@ -11,10 +11,6 @@ Criando um Dashboard com Excel
     Preview do Dashboard
 </p>
 
-<div align="center">
-    <audio src="output/Podcast Final.MP3" controls title="Podcast Final"></audio>
-</div>
-
 # Projeto Dashboard
 
 
@@ -34,3 +30,7 @@ Projeto com o objetivo de gerar um dashboard com o Excel.
 -  Criação de uma tabela com os dados bancários;
 -  Utlização de tabela dinâmica para geração de informação;
 -  Geração de gráficos e inserção de figuras para a formatação de um dashboard mais atrativo.
+
+## Resultado
+
+[Planilha DIO Final.xlsx](https://github.com/user-attachments/files/18416462/Planilha.DIO.Final.xlsx)
