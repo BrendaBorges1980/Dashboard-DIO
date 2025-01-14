@@ -2,7 +2,7 @@
 Criando um Dashboard com Excel
 <p align="center">
 <img 
-    src="./assets/1.jpg"
+    src="./Foto Dashboard.jpg"
     width="300"
 />
 </p>
