@@ -15,25 +15,22 @@ Criando um Dashboard com Excel
     <audio src="output/Podcast Final.MP3" controls title="Podcast Final"></audio>
 </div>
 
-# Projeto Podcast Gerado por IA
+# Projeto Dashboard
 
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar um dashboard com o Excel.
 
-Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
+## 💻 Tecnologia utilizada no projeto
 
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [Canvas](https://https://www.canva.com/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- Microsoft Excel
 
 ## ✨ Como foi feito?
 
-- Roteiro gerado via ChatGPT
-- Áudio gerado no ElevenLabs
-- Canvas para gerar a capa
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Base de dados gerada através do extrato bancário de três meses;
+- Inserção dos dados numa pasta de trabalho do Microsoft Excel com 4 planilhas: Dados, Informações, Caixinha e Dashboard
 
 ## 🛠️ Execução
+
+-  Criação de uma tabela com os dados bancários;
+-  Utlização de tabela dinâmica para geração de informação;
+-  Geração de gráficos e inserção de figuras para a formatação de um dashboard mais atrativo.
