@@ -3,7 +3,7 @@ Criando um Dashboard com Excel
 <p align="center">
 <img 
     src="./Foto Dashboard.png"
-    width="300"
+    width="600"
 />
 </p>
 
