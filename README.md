@@ -8,7 +8,7 @@ Criando um Dashboard com Excel
 </p>
 
 <p align="center">
-    preview do podcast
+    Preview do Dashboard
 </p>
 
 <div align="center">
